@@ -1,4 +1,4 @@
-# Cloudflare Pages headers.
+# Cloudflare static assets headers.
 # Vite đặt hash vào tên file trong /assets/ nên cache vĩnh viễn được.
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
