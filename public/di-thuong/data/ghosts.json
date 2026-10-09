@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ghost_elder",
+    "atlas": "ghost_elder",
+    "directions": [
+      "south",
+      "west",
+      "east",
+      "north"
+    ],
+    "states": [
+      "dormant",
+      "manifested",
+      "pursuing",
+      "restrained"
+    ],
+    "origin": [
+      0.5,
+      0.94
+    ],
+    "stateAnimation": false,
+    "footCollider": {
+      "width": 20,
+      "height": 12
+    },
+    "lore": "original entity for game; not an official novel character"
+  },
+  {
+    "id": "ghost_door",
+    "atlas": "ghost_door",
+    "directions": [
+      "south",
+      "west",
+      "east",
+      "north"
+    ],
+    "states": [
+      "dormant",
+      "manifested",
+      "pursuing",
+      "restrained"
+    ],
+    "origin": [
+      0.5,
+      0.94
+    ],
+    "stateAnimation": false,
+    "footCollider": {
+      "width": 20,
+      "height": 12
+    },
+    "lore": "original entity for game; not an official novel character"
+  },
+  {
+    "id": "ghost_rain",
+    "atlas": "ghost_rain",
+    "directions": [
+      "south",
+      "west",
+      "east",
+      "north"
+    ],
+    "states": [
+      "dormant",
+      "manifested",
+      "pursuing",
+      "restrained"
+    ],
+    "origin": [
+      0.5,
+      0.94
+    ],
+    "stateAnimation": false,
+    "footCollider": {
+      "width": 20,
+      "height": 12
+    },
+    "lore": "original entity for game; not an official novel character"
+  },
+  {
+    "id": "ghost_bride",
+    "atlas": "ghost_bride",
+    "directions": [
+      "south",
+      "west",
+      "east",
+      "north"
+    ],
+    "states": [
+      "dormant",
+      "manifested",
+      "pursuing",
+      "restrained"
+    ],
+    "origin": [
+      0.5,
+      0.94
+    ],
+    "stateAnimation": false,
+    "footCollider": {
+      "width": 20,
+      "height": 12
+    },
+    "lore": "original entity for game; not an official novel character"
+  }
+]
