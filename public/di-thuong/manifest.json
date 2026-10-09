@@ -1,0 +1,2488 @@
+{
+  "version": "3.0.0",
+  "scope": "complete asset starter kit for apartment, safe base, courtyard; not all future locations",
+  "assets": [
+    {
+      "key": "floor_tiles_00",
+      "path": "assets/environment/floors/floor_tiles_00.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 145090,
+      "sha256": "ccb026c862b58dd3b222fbb916ee1906be1c2426dc942ae8c4c90282bf0f0023"
+    },
+    {
+      "key": "floor_tiles_01",
+      "path": "assets/environment/floors/floor_tiles_01.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 146394,
+      "sha256": "b5009863822c21539149110cc7123957dd548685d9692e22a02896fac0287a20"
+    },
+    {
+      "key": "floor_tiles_02",
+      "path": "assets/environment/floors/floor_tiles_02.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 144320,
+      "sha256": "027c6c0008025149fe74181d134ddabae49c520f66ec68d0458b37111463c284"
+    },
+    {
+      "key": "floor_tiles_03",
+      "path": "assets/environment/floors/floor_tiles_03.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 146559,
+      "sha256": "ae403814f0243a3cca6f5baad0b4f0b6414d4b09458f452ebf1b608ec8ac162a"
+    },
+    {
+      "key": "floor_tiles_04",
+      "path": "assets/environment/floors/floor_tiles_04.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 135487,
+      "sha256": "4fec152c5d71f6a081bb4eb76d06954e35a104038d1d237b98a48cb3c3d1b9d2"
+    },
+    {
+      "key": "floor_tiles_05",
+      "path": "assets/environment/floors/floor_tiles_05.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 137858,
+      "sha256": "26bcd9461201e0de84ac3481c7225af61f081f32e77fe87b21610d996b314dcb"
+    },
+    {
+      "key": "floor_tiles_06",
+      "path": "assets/environment/floors/floor_tiles_06.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 143126,
+      "sha256": "ed2afda0f06cf55d1e1426fa8379d183719920a4da93a27cb7b94b593ad152aa"
+    },
+    {
+      "key": "floor_tiles_07",
+      "path": "assets/environment/floors/floor_tiles_07.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 140968,
+      "sha256": "eec6238a28fe4dd8c4db29f92af3df163da83ebc666c8c38d27813dcd3b0fb63"
+    },
+    {
+      "key": "floor_tiles_08",
+      "path": "assets/environment/floors/floor_tiles_08.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 138330,
+      "sha256": "128433fd2aa359563e7c5d9761737c155eb85bb711e4cdbaa683adb6dab954f0"
+    },
+    {
+      "key": "floor_tiles_09",
+      "path": "assets/environment/floors/floor_tiles_09.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 129533,
+      "sha256": "36982dc6d5f74db7fd6d8f44089005bf1792e9a664b1e6d3bdef9a8d0e3b8ea6"
+    },
+    {
+      "key": "floor_tiles_10",
+      "path": "assets/environment/floors/floor_tiles_10.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 129649,
+      "sha256": "a9d25bd890e52ee850feb64ee9a2043cb3d334efb35fe4e43fc6a4c39378b665"
+    },
+    {
+      "key": "floor_tiles_11",
+      "path": "assets/environment/floors/floor_tiles_11.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 136773,
+      "sha256": "a587c3f46b1ac3ea52e33061b8d7da183d99aa079d84f83d00fa615b09fca5ab"
+    },
+    {
+      "key": "floor_tiles_12",
+      "path": "assets/environment/floors/floor_tiles_12.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 147703,
+      "sha256": "43a0126d34fc49fea254eb70609706445d2a6d98eca35fbb9b54e2dd54fc628a"
+    },
+    {
+      "key": "floor_tiles_13",
+      "path": "assets/environment/floors/floor_tiles_13.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 153322,
+      "sha256": "5ae3feabbac9c2e3a053fab79b8d22429d6a3d1fd10af407b7a7007ad35a85ce"
+    },
+    {
+      "key": "floor_tiles_14",
+      "path": "assets/environment/floors/floor_tiles_14.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 150125,
+      "sha256": "861aabfd4420cdb04bbf274202c355e2bedf584574d4495a116340577263a3e4"
+    },
+    {
+      "key": "floor_tiles_15",
+      "path": "assets/environment/floors/floor_tiles_15.png",
+      "kind": "floor",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 147860,
+      "sha256": "fd81baf77c71d2581ba35dd6e2f18d49e9b8f8249350bd9d7082c9d74ecba29d"
+    },
+    {
+      "key": "ui_materials_00",
+      "path": "assets/ui/textures/ui_materials_00.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 129999,
+      "sha256": "dacdfe095e65a8f0fbee25b2c7300e1bd214495523fd42108390fff82963b816"
+    },
+    {
+      "key": "ui_materials_01",
+      "path": "assets/ui/textures/ui_materials_01.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 115584,
+      "sha256": "b18e17157280cbfaa8a9ff8bb78e4efd28aab7abaebe666d70130f0ef05714c7"
+    },
+    {
+      "key": "ui_materials_02",
+      "path": "assets/ui/textures/ui_materials_02.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 113000,
+      "sha256": "af95875218578e23ebc1fc27337346bc896c01e5d9fae0ca357686147139b1a8"
+    },
+    {
+      "key": "ui_materials_03",
+      "path": "assets/ui/textures/ui_materials_03.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 125550,
+      "sha256": "5769309dfc1b877ef0b8fc7ac7ebdb31e966b2141399af86efdb26b8e6288a1f"
+    },
+    {
+      "key": "ui_materials_04",
+      "path": "assets/ui/textures/ui_materials_04.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 134564,
+      "sha256": "dfb5764922246a8dce9809a749f185f9361015f1ba04067ec4b8a89750a5bf68"
+    },
+    {
+      "key": "ui_materials_05",
+      "path": "assets/ui/textures/ui_materials_05.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 129062,
+      "sha256": "e405ba1ac950c09146dbf19745a21b993d28333abdcfb7ac472d03811e518a15"
+    },
+    {
+      "key": "ui_materials_06",
+      "path": "assets/ui/textures/ui_materials_06.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 135469,
+      "sha256": "34b2ab76920d58da3a91d4579f40cdaf79a5b7cd10128f506603f01dad2e5440"
+    },
+    {
+      "key": "ui_materials_07",
+      "path": "assets/ui/textures/ui_materials_07.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 139240,
+      "sha256": "95d6b28bdb10575d5a9f2364a69c093bfcb99bb9035098ce551b73a221cbe66d"
+    },
+    {
+      "key": "ui_materials_08",
+      "path": "assets/ui/textures/ui_materials_08.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 130195,
+      "sha256": "d3ae4038ec85edb05a5d20fe1c2e48e4336a086f2e481d79c479efb4d4fa66e3"
+    },
+    {
+      "key": "ui_materials_09",
+      "path": "assets/ui/textures/ui_materials_09.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 124389,
+      "sha256": "524741d4732e3e3c61cf1e4e095c0607d79ff21be41f8679dca76377a0d02f25"
+    },
+    {
+      "key": "ui_materials_10",
+      "path": "assets/ui/textures/ui_materials_10.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 130357,
+      "sha256": "42a29d5a1f0303bccc5e2155e7aa3395e95ec2ba9cfa33e10badfe7f36825c4b"
+    },
+    {
+      "key": "ui_materials_11",
+      "path": "assets/ui/textures/ui_materials_11.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 121259,
+      "sha256": "6e672c29c8be436a5658f01cbed67b4cf4d1b48e108fcd046e76c1bcdfb1de40"
+    },
+    {
+      "key": "ui_materials_12",
+      "path": "assets/ui/textures/ui_materials_12.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 136354,
+      "sha256": "286f7eedb821ef02a5d3b124251895f6aae0fab05a6b704ccf5c9a5c561ae05d"
+    },
+    {
+      "key": "ui_materials_13",
+      "path": "assets/ui/textures/ui_materials_13.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 129806,
+      "sha256": "18ffbc2c5f99d733b6e79a9e057578555c9ea4be60cda761c64e992df4c5cdf8"
+    },
+    {
+      "key": "ui_materials_14",
+      "path": "assets/ui/textures/ui_materials_14.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 142483,
+      "sha256": "4996f046c91019b8a659094138eda8d956fe00cd372cf63cc7ff120eabcc35dc"
+    },
+    {
+      "key": "ui_materials_15",
+      "path": "assets/ui/textures/ui_materials_15.png",
+      "kind": "ui-texture",
+      "seamlessGuaranteed": false,
+      "width": 256,
+      "height": 256,
+      "alpha": false,
+      "bytes": 140983,
+      "sha256": "47d211e44d617505eee519da91ce19a41bc4f1db10f41fbf13460352a474e343"
+    },
+    {
+      "key": "wall_horizontal",
+      "path": "assets/environment/structures/wall_horizontal.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 64124,
+      "sha256": "247a9c2bd78b95d32421ef9df2781310b5ba70b45260edda9540b93c0b2d1ab4"
+    },
+    {
+      "key": "wall_vertical",
+      "path": "assets/environment/structures/wall_vertical.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 84649,
+      "sha256": "33b2c6122bcb3b415801aeaae8c4b599327d6ae7063c81700e44bec94552de8c"
+    },
+    {
+      "key": "wall_corner",
+      "path": "assets/environment/structures/wall_corner.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 95067,
+      "sha256": "bdfe3c7522f6d544744c115d304b9306b8d3df5da4af85637e4f235c617e6890"
+    },
+    {
+      "key": "column",
+      "path": "assets/environment/structures/column.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 49422,
+      "sha256": "8c19f457f4d0acec3ab5185aa5b055931ec90deb8799412921cc883ff15b5edd"
+    },
+    {
+      "key": "door_closed",
+      "path": "assets/environment/structures/door_closed.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 98657,
+      "sha256": "e3830874b9a70f5764cc3e4414c7a10a69b3d03ba22339ef6e2515e780f635f6"
+    },
+    {
+      "key": "door_open",
+      "path": "assets/environment/structures/door_open.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 89374,
+      "sha256": "1e1cb872e7c5cc271fd7c00b567a8eb454949541f4bc1af100737b0929d1387f"
+    },
+    {
+      "key": "grille_closed",
+      "path": "assets/environment/structures/grille_closed.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 104240,
+      "sha256": "0c6b64508a2234f4773c55c853804e24ff13663c2775612665605b57ad8c04cc"
+    },
+    {
+      "key": "grille_open",
+      "path": "assets/environment/structures/grille_open.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 83325,
+      "sha256": "29ba92225666c88597baf3eaf35aaafa067215baa087d5504250cc61b4bb9aba"
+    },
+    {
+      "key": "fluorescent",
+      "path": "assets/environment/structures/fluorescent.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 22530,
+      "sha256": "cea51217d8bcb9126609d075d051cece12c6501354232b84135fe92d6cb17e27"
+    },
+    {
+      "key": "window_barred",
+      "path": "assets/environment/structures/window_barred.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 85723,
+      "sha256": "fba7a395968136b785e2f9a189f4597346b55f24c8f8bcab39fc0c8c35f4a708"
+    },
+    {
+      "key": "meter_box",
+      "path": "assets/environment/structures/meter_box.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 88304,
+      "sha256": "652286bdbf2c6bdecd52342dda57877373618461b0c982da4554420c16662e5c"
+    },
+    {
+      "key": "hanging_bulb",
+      "path": "assets/environment/structures/hanging_bulb.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 25497,
+      "sha256": "ee4063690440e6a884ec465ce9087c28d3a51020ad81d0957bfa139a5905d712"
+    },
+    {
+      "key": "stairs",
+      "path": "assets/environment/structures/stairs.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 98940,
+      "sha256": "a4125a8b1ec7593c16e282634b2c16be435a1ee2b4185fae9bf04487834e5210"
+    },
+    {
+      "key": "railing_horizontal",
+      "path": "assets/environment/structures/railing_horizontal.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 28413,
+      "sha256": "9f0a21dc7a67de1209b2cc6ad20b3e2e25a1683596a7e17bfe375a981e56a977"
+    },
+    {
+      "key": "railing_vertical",
+      "path": "assets/environment/structures/railing_vertical.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 34947,
+      "sha256": "ebbe32e6138dfe77524fccb995314f79839764b37e04011a555f2ccf999068da"
+    },
+    {
+      "key": "elevator",
+      "path": "assets/environment/structures/elevator.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 104528,
+      "sha256": "f9b17d7f1704c67d906e1d0efada9c8415c469f4da1f7cba86122714af955f79"
+    },
+    {
+      "key": "structure_atlas",
+      "path": "assets/environment/structures/structure_atlas.png",
+      "kind": "structure-atlas",
+      "frameCount": 16,
+      "frameNames": [
+        "wall_horizontal",
+        "wall_vertical",
+        "wall_corner",
+        "column",
+        "door_closed",
+        "door_open",
+        "grille_closed",
+        "grille_open",
+        "fluorescent",
+        "window_barred",
+        "meter_box",
+        "hanging_bulb",
+        "stairs",
+        "railing_horizontal",
+        "railing_vertical",
+        "elevator",
+        "wall_ns"
+      ],
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "width": 1024,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/environment/structures/structure_atlas.json",
+      "bytes": 1172642,
+      "sha256": "ecb5d89008930492b0e2d232e5930fee33c7e4b2f3313518b8bc874c801676b3"
+    },
+    {
+      "key": "bed",
+      "path": "assets/environment/props/bed.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 77631,
+      "sha256": "86574636a154b0a61a544f6490f0b80ca27920a81fcd25f0f58787667e6ab79b"
+    },
+    {
+      "key": "shoe_rack",
+      "path": "assets/environment/props/shoe_rack.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 93250,
+      "sha256": "d3f478e08899bac159c4a9f203ff2a704f7ecb3a86056f92e2d17087fc9e8ba9"
+    },
+    {
+      "key": "sofa",
+      "path": "assets/environment/props/sofa.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 69700,
+      "sha256": "213b2212edc9cca66c83b65c8a1122703b9b625559b359c67ac2247204d6dfc0"
+    },
+    {
+      "key": "table",
+      "path": "assets/environment/props/table.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 78564,
+      "sha256": "de49c100318d6b5efa2d757d278ac4be2beb6376219cb38126de2b3056f1cbc3"
+    },
+    {
+      "key": "fridge",
+      "path": "assets/environment/props/fridge.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 72769,
+      "sha256": "67c1cec0661bd70307c367a47ae1db2c68d67944b761efaf59772f36a056d156"
+    },
+    {
+      "key": "sink",
+      "path": "assets/environment/props/sink.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 55861,
+      "sha256": "09e0a0174f27c647c7fa4c12f2980e47b48f047bac43c7c38acc452ffd1aedf0"
+    },
+    {
+      "key": "television",
+      "path": "assets/environment/props/television.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 87895,
+      "sha256": "109e8927db6f962c2dc0b591960e16ef58fd7d25e413b308027719c5b957881e"
+    },
+    {
+      "key": "wardrobe",
+      "path": "assets/environment/props/wardrobe.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 50016,
+      "sha256": "78a98283bdb443d17bd093a5aa3f23d8179769ecb9fe574ca2db0331220ea959"
+    },
+    {
+      "key": "recorder",
+      "path": "assets/environment/props/recorder.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 96732,
+      "sha256": "693ac0004c2899fe360633b92e80b351392a2abc4a2b2b876b9c21a3b36e462d"
+    },
+    {
+      "key": "evidence_envelope",
+      "path": "assets/environment/props/evidence_envelope.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 97951,
+      "sha256": "db5891c6a2f8cdb2ecdf7b1cbf4a5bb17183d6f7adf25f6658dae97f91f4d36f"
+    },
+    {
+      "key": "gold_box_closed",
+      "path": "assets/environment/props/gold_box_closed.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 88705,
+      "sha256": "52c2f92007ecf61b340b4f1e8520998c59c39af0a28b7beb929e41ed2fe58c28"
+    },
+    {
+      "key": "gold_box_open",
+      "path": "assets/environment/props/gold_box_open.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 100041,
+      "sha256": "ec3c600a3b880725f72295341b9d502160bbca84316bac637a6b7c3da6cc5499"
+    },
+    {
+      "key": "flashlight",
+      "path": "assets/environment/props/flashlight.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 56010,
+      "sha256": "1723bd4d8f254511907f2c55f04231ff1ac553fe51d5158e4c09f3cec2c81f4d"
+    },
+    {
+      "key": "telephone",
+      "path": "assets/environment/props/telephone.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 92901,
+      "sha256": "20d76b71fb32a470025ff2e46804af3acc319711e2fc0d48ed7d2ebaca743734"
+    },
+    {
+      "key": "raincoat_stand",
+      "path": "assets/environment/props/raincoat_stand.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 42132,
+      "sha256": "33e032af8bd086299b1032e62b7c37f3132ca58283f39e7eaf22e9540abcbd6c"
+    },
+    {
+      "key": "dead_plant",
+      "path": "assets/environment/props/dead_plant.png",
+      "kind": "prop",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "collision": "author separately; opaque pixels are not a collider",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 59064,
+      "sha256": "71c37b151a90ee384e77cfa18a9889c9a01a00200d72e22404493af89862bb32"
+    },
+    {
+      "key": "props_atlas",
+      "path": "assets/environment/props/props_atlas.png",
+      "kind": "prop-atlas",
+      "frameCount": 16,
+      "frameNames": [
+        "bed",
+        "shoe_rack",
+        "sofa",
+        "table",
+        "fridge",
+        "sink",
+        "television",
+        "wardrobe",
+        "recorder",
+        "evidence_envelope",
+        "gold_box_closed",
+        "gold_box_open",
+        "flashlight",
+        "telephone",
+        "raincoat_stand",
+        "dead_plant"
+      ],
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "width": 1024,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/environment/props/props_atlas.json",
+      "bytes": 786605,
+      "sha256": "b71bf5ce15760c34e9b0fda708ce78b51da1dea2e3c01c6632945e2ec82017bd"
+    },
+    {
+      "key": "wall_ns",
+      "path": "assets/environment/structures/wall_ns.png",
+      "kind": "structure",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "width": 128,
+      "height": 512,
+      "alpha": true,
+      "bytes": 64250,
+      "sha256": "6bbeb2af66d4c9a633c0eb8ad4ea49c4c8732e361ffcbb7475266aa1c12ff55e"
+    },
+    {
+      "key": "player_male_walk",
+      "path": "assets/characters/player_male_walk.png",
+      "kind": "character-animation",
+      "frameCount": 24,
+      "frameNames": [
+        "south_walk_0",
+        "south_walk_1",
+        "south_walk_2",
+        "south_walk_3",
+        "south_walk_4",
+        "south_walk_5",
+        "west_walk_0",
+        "west_walk_1",
+        "west_walk_2",
+        "west_walk_3",
+        "west_walk_4",
+        "west_walk_5",
+        "east_walk_0",
+        "east_walk_1",
+        "east_walk_2",
+        "east_walk_3",
+        "east_walk_4",
+        "east_walk_5",
+        "north_walk_0",
+        "north_walk_1",
+        "north_walk_2",
+        "north_walk_3",
+        "north_walk_4",
+        "north_walk_5"
+      ],
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "width": 768,
+      "height": 768,
+      "alpha": true,
+      "atlas": "assets/characters/player_male_walk.json",
+      "bytes": 439473,
+      "sha256": "118247955896cb710451e2551de1a7ddfe4064e3403b81522e66aaf5c105c615"
+    },
+    {
+      "key": "player_male_walk_south_idle",
+      "path": "assets/characters/player_male_south_idle.png",
+      "kind": "character-idle",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "note": "Idle uses a still from the walk sheet; no separate breathing animation.",
+      "width": 128,
+      "height": 192,
+      "alpha": true,
+      "bytes": 20459,
+      "sha256": "21c702f30718f63f78cfc510c86440d8bcc7b557360eed2e7977e6e66c27f592"
+    },
+    {
+      "key": "player_male_walk_west_idle",
+      "path": "assets/characters/player_male_west_idle.png",
+      "kind": "character-idle",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "note": "Idle uses a still from the walk sheet; no separate breathing animation.",
+      "width": 128,
+      "height": 192,
+      "alpha": true,
+      "bytes": 17828,
+      "sha256": "2cc36af4c4e3dc4e5f68f60904c3d287e1029c17b301184f891ee10ac85ce5f5"
+    },
+    {
+      "key": "player_male_walk_east_idle",
+      "path": "assets/characters/player_male_east_idle.png",
+      "kind": "character-idle",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "note": "Idle uses a still from the walk sheet; no separate breathing animation.",
+      "width": 128,
+      "height": 192,
+      "alpha": true,
+      "bytes": 18522,
+      "sha256": "a23133ffa8309a25a9d356ce7f2e4dbdf7ca9260f8224be899184be6bac86f9a"
+    },
+    {
+      "key": "player_male_walk_north_idle",
+      "path": "assets/characters/player_male_north_idle.png",
+      "kind": "character-idle",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "note": "Idle uses a still from the walk sheet; no separate breathing animation.",
+      "width": 128,
+      "height": 192,
+      "alpha": true,
+      "bytes": 18303,
+      "sha256": "8ba7ea92a726ef3a9f99b44ceaf9cb7c7d9033fa1167c236237cb4d450915e1c"
+    },
+    {
+      "key": "player_female_walk",
+      "path": "assets/characters/player_female_walk.png",
+      "kind": "character-animation",
+      "frameCount": 24,
+      "frameNames": [
+        "south_walk_0",
+        "south_walk_1",
+        "south_walk_2",
+        "south_walk_3",
+        "south_walk_4",
+        "south_walk_5",
+        "west_walk_0",
+        "west_walk_1",
+        "west_walk_2",
+        "west_walk_3",
+        "west_walk_4",
+        "west_walk_5",
+        "east_walk_0",
+        "east_walk_1",
+        "east_walk_2",
+        "east_walk_3",
+        "east_walk_4",
+        "east_walk_5",
+        "north_walk_0",
+        "north_walk_1",
+        "north_walk_2",
+        "north_walk_3",
+        "north_walk_4",
+        "north_walk_5"
+      ],
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "width": 768,
+      "height": 768,
+      "alpha": true,
+      "atlas": "assets/characters/player_female_walk.json",
+      "bytes": 445440,
+      "sha256": "eb378ce01641f1cad947b712bea9e61ef5bdf6ebcf87bad6c52a8f9c6823960e"
+    },
+    {
+      "key": "player_female_walk_south_idle",
+      "path": "assets/characters/player_female_south_idle.png",
+      "kind": "character-idle",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "note": "Idle uses a still from the walk sheet; no separate breathing animation.",
+      "width": 128,
+      "height": 192,
+      "alpha": true,
+      "bytes": 17477,
+      "sha256": "af1125d799e85b51df01aa5a9e130b28ceb44c9cf2bf48540d6af797e2196dd0"
+    },
+    {
+      "key": "player_female_walk_west_idle",
+      "path": "assets/characters/player_female_west_idle.png",
+      "kind": "character-idle",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "note": "Idle uses a still from the walk sheet; no separate breathing animation.",
+      "width": 128,
+      "height": 192,
+      "alpha": true,
+      "bytes": 20305,
+      "sha256": "13b380005ad9da6d63274ac5cf538967e39828a818c06207af1b462456a6fcc5"
+    },
+    {
+      "key": "player_female_walk_east_idle",
+      "path": "assets/characters/player_female_east_idle.png",
+      "kind": "character-idle",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "note": "Idle uses a still from the walk sheet; no separate breathing animation.",
+      "width": 128,
+      "height": 192,
+      "alpha": true,
+      "bytes": 19063,
+      "sha256": "a6fe56e4a2a5fcaf692483e68236a48624b4ffae72a54e51a5d47735f22884d7"
+    },
+    {
+      "key": "player_female_walk_north_idle",
+      "path": "assets/characters/player_female_north_idle.png",
+      "kind": "character-idle",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "note": "Idle uses a still from the walk sheet; no separate breathing animation.",
+      "width": 128,
+      "height": 192,
+      "alpha": true,
+      "bytes": 17534,
+      "sha256": "bae05a0904b562e96ba1c997d81cdad1d181dc5ab58fce41a18441b0d01a6eab"
+    },
+    {
+      "key": "player_actions",
+      "path": "assets/characters/player_actions.png",
+      "kind": "character-action-atlas",
+      "frameCount": 16,
+      "frameNames": [
+        "south_male_interact",
+        "south_male_ability",
+        "south_female_interact",
+        "south_female_ability",
+        "west_male_interact",
+        "west_male_ability",
+        "west_female_interact",
+        "west_female_ability",
+        "east_male_interact",
+        "east_male_ability",
+        "east_female_interact",
+        "east_female_ability",
+        "north_male_interact",
+        "north_male_ability",
+        "north_female_interact",
+        "north_female_ability"
+      ],
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "width": 512,
+      "height": 768,
+      "alpha": true,
+      "atlas": "assets/characters/player_actions.json",
+      "bytes": 302038,
+      "sha256": "241e580b2dabb6ee8c975210e4d1fbb96c4a19cbe472c7d54fb431d97882df39"
+    },
+    {
+      "key": "ghost_elder",
+      "path": "assets/ghosts/ghost_elder.png",
+      "kind": "ghost-state-atlas",
+      "frameCount": 16,
+      "frameNames": [
+        "south_dormant",
+        "south_manifested",
+        "south_pursuing",
+        "south_restrained",
+        "west_dormant",
+        "west_manifested",
+        "west_pursuing",
+        "west_restrained",
+        "east_dormant",
+        "east_manifested",
+        "east_pursuing",
+        "east_restrained",
+        "north_dormant",
+        "north_manifested",
+        "north_pursuing",
+        "north_restrained"
+      ],
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "width": 768,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/ghosts/ghost_elder.json",
+      "bytes": 646977,
+      "sha256": "58e56812fe519b6655bb4b7ba8fd4cb42e4d8e50ef39ea86add3044aef0a6a95"
+    },
+    {
+      "key": "ghost_elder_dormant",
+      "path": "assets/ghosts/ghost_elder_dormant.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 41462,
+      "sha256": "47c458ee1d46b3ee1c35f8c55b0a4f6436925d557ade330a633f1f63440641d2"
+    },
+    {
+      "key": "ghost_elder_manifested",
+      "path": "assets/ghosts/ghost_elder_manifested.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 48006,
+      "sha256": "a692d2b7b505522474743e9544d9f70e1210fdd6f1adb9cae0981968fcfd9785"
+    },
+    {
+      "key": "ghost_elder_pursuing",
+      "path": "assets/ghosts/ghost_elder_pursuing.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 40218,
+      "sha256": "6281abf7a21fd91404eb54bcee87585d5859f8dabd06f06ecf4e00464ecfa727"
+    },
+    {
+      "key": "ghost_elder_restrained",
+      "path": "assets/ghosts/ghost_elder_restrained.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 31516,
+      "sha256": "828b47525e192101c24e9a2a299d010bd45d2d283a95cbc7219a72cb50c38b12"
+    },
+    {
+      "key": "ghost_door",
+      "path": "assets/ghosts/ghost_door.png",
+      "kind": "ghost-state-atlas",
+      "frameCount": 16,
+      "frameNames": [
+        "south_dormant",
+        "south_manifested",
+        "south_pursuing",
+        "south_restrained",
+        "west_dormant",
+        "west_manifested",
+        "west_pursuing",
+        "west_restrained",
+        "east_dormant",
+        "east_manifested",
+        "east_pursuing",
+        "east_restrained",
+        "north_dormant",
+        "north_manifested",
+        "north_pursuing",
+        "north_restrained"
+      ],
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "width": 768,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/ghosts/ghost_door.json",
+      "bytes": 479874,
+      "sha256": "10d55292207cb8ac21b789bebf68c354aeb1b86cf27430dbe64dd3b4c02d579d"
+    },
+    {
+      "key": "ghost_door_dormant",
+      "path": "assets/ghosts/ghost_door_dormant.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 29355,
+      "sha256": "9163acec8e81882897218aaf3f100cb40d6d5ec633468955024a30b39417a1bf"
+    },
+    {
+      "key": "ghost_door_manifested",
+      "path": "assets/ghosts/ghost_door_manifested.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 37139,
+      "sha256": "29e61a0844c569c2760fb160e5383e75b821928ba5578529174a7c0641d1ed99"
+    },
+    {
+      "key": "ghost_door_pursuing",
+      "path": "assets/ghosts/ghost_door_pursuing.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 32903,
+      "sha256": "9a88cbda23ad9499f96a9c5e1086140c6cc7221e065a39f10734fa87f2912063"
+    },
+    {
+      "key": "ghost_door_restrained",
+      "path": "assets/ghosts/ghost_door_restrained.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 22036,
+      "sha256": "e8ed63b1bc64248fa04121e4472489aa6a7cba6325717db9e5472dbbdaffb257"
+    },
+    {
+      "key": "ghost_rain",
+      "path": "assets/ghosts/ghost_rain.png",
+      "kind": "ghost-state-atlas",
+      "frameCount": 16,
+      "frameNames": [
+        "south_dormant",
+        "south_manifested",
+        "south_pursuing",
+        "south_restrained",
+        "west_dormant",
+        "west_manifested",
+        "west_pursuing",
+        "west_restrained",
+        "east_dormant",
+        "east_manifested",
+        "east_pursuing",
+        "east_restrained",
+        "north_dormant",
+        "north_manifested",
+        "north_pursuing",
+        "north_restrained"
+      ],
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "width": 768,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/ghosts/ghost_rain.json",
+      "bytes": 358441,
+      "sha256": "d8c41faff7b53b9eaf2f0183a87f901ff4fd3749fdc63565e3d057dab8da805e"
+    },
+    {
+      "key": "ghost_rain_dormant",
+      "path": "assets/ghosts/ghost_rain_dormant.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 20696,
+      "sha256": "c6bd926117b7ceceea062ef2411c487f4410737d3a2f326205cefcca139ee3fe"
+    },
+    {
+      "key": "ghost_rain_manifested",
+      "path": "assets/ghosts/ghost_rain_manifested.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 25821,
+      "sha256": "a15bfed25b96e326687fef562cdcb38b903beed9b547543799434e117539433c"
+    },
+    {
+      "key": "ghost_rain_pursuing",
+      "path": "assets/ghosts/ghost_rain_pursuing.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 28596,
+      "sha256": "d49cea51efd0423b730ebb75a07972a1a1532b0b9ec58cd3756e3e5361bb2f5a"
+    },
+    {
+      "key": "ghost_rain_restrained",
+      "path": "assets/ghosts/ghost_rain_restrained.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 18027,
+      "sha256": "996e8851e656b5e0d350bf280b3450f6c836a942ce89e054abcbfb5962aa276e"
+    },
+    {
+      "key": "ghost_bride",
+      "path": "assets/ghosts/ghost_bride.png",
+      "kind": "ghost-state-atlas",
+      "frameCount": 16,
+      "frameNames": [
+        "south_dormant",
+        "south_manifested",
+        "south_pursuing",
+        "south_restrained",
+        "west_dormant",
+        "west_manifested",
+        "west_pursuing",
+        "west_restrained",
+        "east_dormant",
+        "east_manifested",
+        "east_pursuing",
+        "east_restrained",
+        "north_dormant",
+        "north_manifested",
+        "north_pursuing",
+        "north_restrained"
+      ],
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "width": 768,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/ghosts/ghost_bride.json",
+      "bytes": 700052,
+      "sha256": "629d46cd493e26015a946f0dd1539bc8731e0085142f5076d6708778d3692281"
+    },
+    {
+      "key": "ghost_bride_dormant",
+      "path": "assets/ghosts/ghost_bride_dormant.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 42435,
+      "sha256": "b6aa228591d3f2ba74f7fd036beac9b7fe94acfba3e697ee91c7c920c1e7fd5e"
+    },
+    {
+      "key": "ghost_bride_manifested",
+      "path": "assets/ghosts/ghost_bride_manifested.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 50484,
+      "sha256": "e54fe8c788de08a54adfa2791224e578ae3f71b3390bdf451fda2b785233853c"
+    },
+    {
+      "key": "ghost_bride_pursuing",
+      "path": "assets/ghosts/ghost_bride_pursuing.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 53718,
+      "sha256": "57312019bdeb2661bd5671063aecf4cc6c1636d7e0efdd90daa3043a70987914"
+    },
+    {
+      "key": "ghost_bride_restrained",
+      "path": "assets/ghosts/ghost_bride_restrained.png",
+      "kind": "ghost-state",
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "direction": "south",
+      "animated": false,
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 34195,
+      "sha256": "b6b6d5570d39a5ff207d5ef559df168a5aa83903a9b6d0951c2befffd2aabf7c"
+    },
+    {
+      "key": "door_footprints",
+      "path": "assets/evidence/door_footprints.png",
+      "kind": "evidence-photo",
+      "playableMap": false,
+      "width": 640,
+      "height": 480,
+      "alpha": false,
+      "bytes": 559833,
+      "sha256": "956e155d4868d1f37becdf92777b3527ebc52b839704544ef4b00f8c26a30b41"
+    },
+    {
+      "key": "mirror_bedroom",
+      "path": "assets/evidence/mirror_bedroom.png",
+      "kind": "evidence-photo",
+      "playableMap": false,
+      "width": 640,
+      "height": 480,
+      "alpha": false,
+      "bytes": 482414,
+      "sha256": "7d4b35f6c11bfbf20606a34b21aeec886a08772efa1e2745f1bb97808bea08a0"
+    },
+    {
+      "key": "rain_entrance",
+      "path": "assets/evidence/rain_entrance.png",
+      "kind": "evidence-photo",
+      "playableMap": false,
+      "width": 640,
+      "height": 480,
+      "alpha": false,
+      "bytes": 550255,
+      "sha256": "51881ba62b81c7029dc033702fcaf42be82389f1b3ce91c83c00c869cf2d6e67"
+    },
+    {
+      "key": "mirror_bathroom",
+      "path": "assets/evidence/mirror_bathroom.png",
+      "kind": "evidence-photo",
+      "playableMap": false,
+      "width": 640,
+      "height": 480,
+      "alpha": false,
+      "bytes": 502412,
+      "sha256": "21c1e7ef9cdf0a1680ec57a310f108cb8befdf64a704a2b878cf9cb6192a3196"
+    },
+    {
+      "key": "ui_dossier",
+      "path": "assets/ui/panels/dossier.png",
+      "kind": "ui-panel",
+      "nineSlice": {
+        "left": 12,
+        "right": 12,
+        "top": 12,
+        "bottom": 12
+      },
+      "textBakedIn": false,
+      "width": 512,
+      "height": 512,
+      "alpha": true,
+      "bytes": 410594,
+      "sha256": "afee41c9492bbc819c743e6bd08f1a59cb425f1c5ec43df2a3755285e0705557"
+    },
+    {
+      "key": "ui_evidence_card",
+      "path": "assets/ui/panels/evidence_card.png",
+      "kind": "ui-panel",
+      "nineSlice": {
+        "left": 12,
+        "right": 12,
+        "top": 12,
+        "bottom": 12
+      },
+      "textBakedIn": false,
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 143448,
+      "sha256": "a25c9f1a7f3ec80f2944eabb24c29b0a3a451cc6883d7a8556932e03ab6be316"
+    },
+    {
+      "key": "ui_inventory_slot",
+      "path": "assets/ui/panels/inventory_slot.png",
+      "kind": "ui-panel",
+      "nineSlice": {
+        "left": 12,
+        "right": 12,
+        "top": 12,
+        "bottom": 12
+      },
+      "textBakedIn": false,
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 143448,
+      "sha256": "a25c9f1a7f3ec80f2944eabb24c29b0a3a451cc6883d7a8556932e03ab6be316"
+    },
+    {
+      "key": "ui_button_idle",
+      "path": "assets/ui/panels/button_idle.png",
+      "kind": "ui-panel",
+      "nineSlice": {
+        "left": 12,
+        "right": 12,
+        "top": 12,
+        "bottom": 12
+      },
+      "textBakedIn": false,
+      "width": 256,
+      "height": 80,
+      "alpha": true,
+      "bytes": 41590,
+      "sha256": "819766fdf0aef0c45bf78c920bc8319085aff86583e5b209a4f2dd8353aa9e19"
+    },
+    {
+      "key": "ui_button_hover",
+      "path": "assets/ui/panels/button_hover.png",
+      "kind": "ui-panel",
+      "nineSlice": {
+        "left": 12,
+        "right": 12,
+        "top": 12,
+        "bottom": 12
+      },
+      "textBakedIn": false,
+      "width": 256,
+      "height": 80,
+      "alpha": true,
+      "bytes": 39798,
+      "sha256": "cf51031b4465e247b03eacc650bc41c88eaa750419c4fcb5f02078692ec4e3c6"
+    },
+    {
+      "key": "ui_button_pressed",
+      "path": "assets/ui/panels/button_pressed.png",
+      "kind": "ui-panel",
+      "nineSlice": {
+        "left": 12,
+        "right": 12,
+        "top": 12,
+        "bottom": 12
+      },
+      "textBakedIn": false,
+      "width": 256,
+      "height": 80,
+      "alpha": true,
+      "bytes": 37627,
+      "sha256": "ab9aee370dcb5be6fed998449437ed5dfc466b333d58b55dde6db8fb763f31cb"
+    },
+    {
+      "key": "ui_modal",
+      "path": "assets/ui/panels/modal.png",
+      "kind": "ui-panel",
+      "nineSlice": {
+        "left": 12,
+        "right": 12,
+        "top": 12,
+        "bottom": 12
+      },
+      "textBakedIn": false,
+      "width": 512,
+      "height": 512,
+      "alpha": true,
+      "bytes": 196673,
+      "sha256": "8107531f1facdcf63c475d94869be2f306b5867017299745fd4d1a631973158c"
+    },
+    {
+      "key": "ui_tooltip",
+      "path": "assets/ui/panels/tooltip.png",
+      "kind": "ui-panel",
+      "nineSlice": {
+        "left": 12,
+        "right": 12,
+        "top": 12,
+        "bottom": 12
+      },
+      "textBakedIn": false,
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 142830,
+      "sha256": "159b3c7312896b5f14ad5cbceeab9210b3fa373e98184aac74001cf18f7a622c"
+    },
+    {
+      "key": "ui_status_panel",
+      "path": "assets/ui/panels/status_panel.png",
+      "kind": "ui-panel",
+      "nineSlice": {
+        "left": 12,
+        "right": 12,
+        "top": 12,
+        "bottom": 12
+      },
+      "textBakedIn": false,
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "bytes": 142830,
+      "sha256": "159b3c7312896b5f14ad5cbceeab9210b3fa373e98184aac74001cf18f7a622c"
+    },
+    {
+      "key": "icon_investigate",
+      "path": "assets/ui/icons/investigate.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 274,
+      "sha256": "f25fe8fcf237391db11701c390dcc2a6b92ff421ba6ab73a7ab95b40a9c2c94b"
+    },
+    {
+      "key": "icon_evidence",
+      "path": "assets/ui/icons/evidence.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 235,
+      "sha256": "081162b238af5ee6a6524e45468256bd8f2955e2e7de2cc4003199cdb84deb0c"
+    },
+    {
+      "key": "icon_ghost",
+      "path": "assets/ui/icons/ghost.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 264,
+      "sha256": "52094ee20cb6b1633116954960ddb31a8365a4e3630749ae686282274996c602"
+    },
+    {
+      "key": "icon_contain",
+      "path": "assets/ui/icons/contain.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 240,
+      "sha256": "3a92ecf5e748c8666c15cbbd36c9e30a642672e8808f87d9a4b063bbe0bcf49d"
+    },
+    {
+      "key": "icon_revival",
+      "path": "assets/ui/icons/revival.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 279,
+      "sha256": "9d3421bef6ed31802fbdc7f46163b02e07298533793a268b42b71557b45bf193"
+    },
+    {
+      "key": "icon_balance",
+      "path": "assets/ui/icons/balance.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 256,
+      "sha256": "025937219326eca28f7ccf87eed272903fd6eb7c40eb25dadbac1e18ac55eaf5"
+    },
+    {
+      "key": "icon_domain",
+      "path": "assets/ui/icons/domain.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 250,
+      "sha256": "3fe1fbb9a26ce72c6c2635ba29dcbcc00b8c3702955847ec72c1187d05759b96"
+    },
+    {
+      "key": "icon_map",
+      "path": "assets/ui/icons/map.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 253,
+      "sha256": "4cde09c86693207abbc873d99c336f33d86ab6099666f0d1bd3385ba8649926e"
+    },
+    {
+      "key": "icon_inventory",
+      "path": "assets/ui/icons/inventory.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 232,
+      "sha256": "3c36c60bcde52e66937c6070f010e1579817e7da713fc57bc9c0aad2ead85d66"
+    },
+    {
+      "key": "icon_settings",
+      "path": "assets/ui/icons/settings.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 314,
+      "sha256": "a229240c48253f2639309625e1a3040dce994db0a3aa457e1ed28d1c235d7a11"
+    },
+    {
+      "key": "icon_audio",
+      "path": "assets/ui/icons/audio.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 252,
+      "sha256": "685b1c66f0338757dee60ba2c59140528ae18347300b7effdaae40dd688af77a"
+    },
+    {
+      "key": "icon_flashlight",
+      "path": "assets/ui/icons/flashlight.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 246,
+      "sha256": "1b2db635074441fa3a2ac024fba17b72da5ed1c2d6dab244af1b65db71f783d8"
+    },
+    {
+      "key": "icon_interact",
+      "path": "assets/ui/icons/interact.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 303,
+      "sha256": "6a94235ef2255f62c5ccede9cf25b0c94324c0454d7e5600385ca0d8f72aa421"
+    },
+    {
+      "key": "icon_run",
+      "path": "assets/ui/icons/run.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 290,
+      "sha256": "6c2e847c1758ac00d8fc97de2dc7b0fbe2a8a1a1cd4c0eff9d84992a068f39c2"
+    },
+    {
+      "key": "icon_door",
+      "path": "assets/ui/icons/door.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 240,
+      "sha256": "aeecc66bafcc0081c9ad41ac9572cf9af4662adac483841d24ba495140b300eb"
+    },
+    {
+      "key": "icon_camera",
+      "path": "assets/ui/icons/camera.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 263,
+      "sha256": "a90768515c2145644adcd55eb36a840e276efe942e4bdf06ff99b8828785cbbf"
+    },
+    {
+      "key": "icon_phone",
+      "path": "assets/ui/icons/phone.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 258,
+      "sha256": "080a453bccdad7b9c471cdd4bac0b4453f5569b3ab649a9cf4258e2c860cbd95"
+    },
+    {
+      "key": "icon_tape",
+      "path": "assets/ui/icons/tape.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 288,
+      "sha256": "1d640d9a8c92dbb6e5bbbfc80cfb8b7808c121c771d05b9b12e2488091736483"
+    },
+    {
+      "key": "icon_research",
+      "path": "assets/ui/icons/research.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 261,
+      "sha256": "3c992cd2cc8a5a43fd878919b1b12cb2d41e12cfadb09b4d15b3a7392c08ec2c"
+    },
+    {
+      "key": "icon_team",
+      "path": "assets/ui/icons/team.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 316,
+      "sha256": "8c8d7205b1995075490cb7271a60ddd8e85976ec8d37e27b8a42c8e9969bf50d"
+    },
+    {
+      "key": "icon_warning",
+      "path": "assets/ui/icons/warning.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 227,
+      "sha256": "33232805e228dc14ad46cc52dbe612f25abd500848868a6ef48d6a3f5fb9a847"
+    },
+    {
+      "key": "icon_save",
+      "path": "assets/ui/icons/save.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 241,
+      "sha256": "18a8e0790aa4e5bb3db51a18e082062080619bb36ffa200c7b4dbddfb63db52c"
+    },
+    {
+      "key": "icon_exit",
+      "path": "assets/ui/icons/exit.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 232,
+      "sha256": "9116c1da51c38f51f880f4868d5d14735259fb1461158e326a26dc97f120a416"
+    },
+    {
+      "key": "icon_gold",
+      "path": "assets/ui/icons/gold.svg",
+      "kind": "ui-icon",
+      "width": 48,
+      "height": 48,
+      "bytes": 254,
+      "sha256": "6c4198dd76a7e6cdcb7c28d93e82a21aaa3d0825bbf35941d063b96c53e0bfdf"
+    },
+    {
+      "key": "vfx_domain_edge",
+      "path": "assets/vfx/domain_edge.png",
+      "kind": "vfx-animation",
+      "frameCount": 16,
+      "frameNames": [
+        "frame_00",
+        "frame_01",
+        "frame_02",
+        "frame_03",
+        "frame_04",
+        "frame_05",
+        "frame_06",
+        "frame_07",
+        "frame_08",
+        "frame_09",
+        "frame_10",
+        "frame_11",
+        "frame_12",
+        "frame_13",
+        "frame_14",
+        "frame_15"
+      ],
+      "origin": [
+        0.5,
+        0.5
+      ],
+      "width": 1024,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/vfx/domain_edge.json",
+      "bytes": 28073,
+      "sha256": "a098e05de9d75ec7813f47f41aaed53ba7d785875b782942c5f23c51246af82e"
+    },
+    {
+      "key": "vfx_suppression",
+      "path": "assets/vfx/suppression.png",
+      "kind": "vfx-animation",
+      "frameCount": 16,
+      "frameNames": [
+        "frame_00",
+        "frame_01",
+        "frame_02",
+        "frame_03",
+        "frame_04",
+        "frame_05",
+        "frame_06",
+        "frame_07",
+        "frame_08",
+        "frame_09",
+        "frame_10",
+        "frame_11",
+        "frame_12",
+        "frame_13",
+        "frame_14",
+        "frame_15"
+      ],
+      "origin": [
+        0.5,
+        0.5
+      ],
+      "width": 1024,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/vfx/suppression.json",
+      "bytes": 10918,
+      "sha256": "6a381ec6ee4d08b172b28289293ff05296b215c1fa68dd4b3e62754bd151f81e"
+    },
+    {
+      "key": "vfx_manifestation",
+      "path": "assets/vfx/manifestation.png",
+      "kind": "vfx-animation",
+      "frameCount": 16,
+      "frameNames": [
+        "frame_00",
+        "frame_01",
+        "frame_02",
+        "frame_03",
+        "frame_04",
+        "frame_05",
+        "frame_06",
+        "frame_07",
+        "frame_08",
+        "frame_09",
+        "frame_10",
+        "frame_11",
+        "frame_12",
+        "frame_13",
+        "frame_14",
+        "frame_15"
+      ],
+      "origin": [
+        0.5,
+        0.5
+      ],
+      "width": 1024,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/vfx/manifestation.json",
+      "bytes": 190475,
+      "sha256": "8377940f55b24841ef9493ec64681071a6497457be723c4cb4015f2b41552581"
+    },
+    {
+      "key": "vfx_rain_trace",
+      "path": "assets/vfx/rain_trace.png",
+      "kind": "vfx-animation",
+      "frameCount": 16,
+      "frameNames": [
+        "frame_00",
+        "frame_01",
+        "frame_02",
+        "frame_03",
+        "frame_04",
+        "frame_05",
+        "frame_06",
+        "frame_07",
+        "frame_08",
+        "frame_09",
+        "frame_10",
+        "frame_11",
+        "frame_12",
+        "frame_13",
+        "frame_14",
+        "frame_15"
+      ],
+      "origin": [
+        0.5,
+        0.5
+      ],
+      "width": 1024,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/vfx/rain_trace.json",
+      "bytes": 8813,
+      "sha256": "6a0d255f7f27a7c05ddc14edbd91e9a7d17708cbfe408a27233a9568f85ab6e6"
+    },
+    {
+      "key": "vfx_footprint",
+      "path": "assets/vfx/footprint.png",
+      "kind": "vfx-animation",
+      "frameCount": 16,
+      "frameNames": [
+        "frame_00",
+        "frame_01",
+        "frame_02",
+        "frame_03",
+        "frame_04",
+        "frame_05",
+        "frame_06",
+        "frame_07",
+        "frame_08",
+        "frame_09",
+        "frame_10",
+        "frame_11",
+        "frame_12",
+        "frame_13",
+        "frame_14",
+        "frame_15"
+      ],
+      "origin": [
+        0.5,
+        0.5
+      ],
+      "width": 1024,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/vfx/footprint.json",
+      "bytes": 10492,
+      "sha256": "adcc0c2eeb0d7522ac3eb9584c712d4a03d586a60ac1fea3aa13620ad393442f"
+    },
+    {
+      "key": "vfx_mirror_fracture",
+      "path": "assets/vfx/mirror_fracture.png",
+      "kind": "vfx-animation",
+      "frameCount": 16,
+      "frameNames": [
+        "frame_00",
+        "frame_01",
+        "frame_02",
+        "frame_03",
+        "frame_04",
+        "frame_05",
+        "frame_06",
+        "frame_07",
+        "frame_08",
+        "frame_09",
+        "frame_10",
+        "frame_11",
+        "frame_12",
+        "frame_13",
+        "frame_14",
+        "frame_15"
+      ],
+      "origin": [
+        0.5,
+        0.5
+      ],
+      "width": 1024,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/vfx/mirror_fracture.json",
+      "bytes": 19686,
+      "sha256": "7c9963451d67c2711acc699eedc77ae5bfc3bca31b5e4e24b5f78a3277967b7c"
+    },
+    {
+      "key": "vfx_evidence_ping",
+      "path": "assets/vfx/evidence_ping.png",
+      "kind": "vfx-animation",
+      "frameCount": 16,
+      "frameNames": [
+        "frame_00",
+        "frame_01",
+        "frame_02",
+        "frame_03",
+        "frame_04",
+        "frame_05",
+        "frame_06",
+        "frame_07",
+        "frame_08",
+        "frame_09",
+        "frame_10",
+        "frame_11",
+        "frame_12",
+        "frame_13",
+        "frame_14",
+        "frame_15"
+      ],
+      "origin": [
+        0.5,
+        0.5
+      ],
+      "width": 1024,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/vfx/evidence_ping.json",
+      "bytes": 11877,
+      "sha256": "22e1a03ff0d60039832c366f503f25a5aa89ab4d8f527de507e42f3437efc485"
+    },
+    {
+      "key": "vfx_containment_lock",
+      "path": "assets/vfx/containment_lock.png",
+      "kind": "vfx-animation",
+      "frameCount": 16,
+      "frameNames": [
+        "frame_00",
+        "frame_01",
+        "frame_02",
+        "frame_03",
+        "frame_04",
+        "frame_05",
+        "frame_06",
+        "frame_07",
+        "frame_08",
+        "frame_09",
+        "frame_10",
+        "frame_11",
+        "frame_12",
+        "frame_13",
+        "frame_14",
+        "frame_15"
+      ],
+      "origin": [
+        0.5,
+        0.5
+      ],
+      "width": 1024,
+      "height": 1024,
+      "alpha": true,
+      "atlas": "assets/vfx/containment_lock.json",
+      "bytes": 5643,
+      "sha256": "a6ac1311e2f93402f55af817ce70900acc1d797f23079615f2313781aaf50df2"
+    },
+    {
+      "key": "ambience_hall",
+      "path": "assets/audio/ambience_hall.wav",
+      "kind": "audio",
+      "duration": 16,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": true,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 1411244,
+      "sha256": "6eff00187136751dcc19a4f6c88c2b912cfe4ddabce4d24181568c6d4dbe3fd3"
+    },
+    {
+      "key": "ambience_rain",
+      "path": "assets/audio/ambience_rain.wav",
+      "kind": "audio",
+      "duration": 16,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": true,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 1411244,
+      "sha256": "ceae9f42a0085d010ffc2fe2596e54f1016b89f42e1a6b17219fe413f1cafbce"
+    },
+    {
+      "key": "ambience_base",
+      "path": "assets/audio/ambience_base.wav",
+      "kind": "audio",
+      "duration": 16,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": true,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 1411244,
+      "sha256": "4abe93a2a6588ef38b9ea43cf845257e7b09d5665850264123eb9710e5083dff"
+    },
+    {
+      "key": "door_knock",
+      "path": "assets/audio/door_knock.wav",
+      "kind": "audio",
+      "duration": 2.4,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": false,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 211724,
+      "sha256": "42fa152f1b116f636967270eeda1c5b5756da34d00bc42a6b6f1931ef57ed941"
+    },
+    {
+      "key": "door_creak",
+      "path": "assets/audio/door_creak.wav",
+      "kind": "audio",
+      "duration": 2.3,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": false,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 202904,
+      "sha256": "52e4505455b75a906dd5a93804ee7790580fd37c8575038277cb31a835549955"
+    },
+    {
+      "key": "footstep_tile",
+      "path": "assets/audio/footstep_tile.wav",
+      "kind": "audio",
+      "duration": 0.35,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": false,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 30914,
+      "sha256": "3ed901d12534045b55896aa6e3acc4a05708c07abaacb52486ebc944af22905e"
+    },
+    {
+      "key": "footstep_wet",
+      "path": "assets/audio/footstep_wet.wav",
+      "kind": "audio",
+      "duration": 0.45,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": false,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 39734,
+      "sha256": "1ae3afebf35c62bee0f53521c4d8d67094aeb3504a0bdcdb83850ffae2a62689"
+    },
+    {
+      "key": "recorder_static",
+      "path": "assets/audio/recorder_static.wav",
+      "kind": "audio",
+      "duration": 3,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": false,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 264644,
+      "sha256": "c97fe414a9818c8cd50ebeb0086b265e0a9c3fbc5b6119c68546b7ea102dd295"
+    },
+    {
+      "key": "ghost_approach",
+      "path": "assets/audio/ghost_approach.wav",
+      "kind": "audio",
+      "duration": 3,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": false,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 264644,
+      "sha256": "76c10af0fb1d6067cd0b70ad2a061b64d5aa33658085ab27c3d381247b23425c"
+    },
+    {
+      "key": "manifestation",
+      "path": "assets/audio/manifestation.wav",
+      "kind": "audio",
+      "duration": 2.8,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": false,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 247004,
+      "sha256": "7e07b387c2e0ab77711694fc0e92cdbd3ea96b2dbdccc0290a5f033aade105cd"
+    },
+    {
+      "key": "gold_close",
+      "path": "assets/audio/gold_close.wav",
+      "kind": "audio",
+      "duration": 1.1,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": false,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 97064,
+      "sha256": "00b4abbbf495ccd9075306de2ee6ad475c089c65960d74707dc96b85b3c902e7"
+    },
+    {
+      "key": "evidence_pickup",
+      "path": "assets/audio/evidence_pickup.wav",
+      "kind": "audio",
+      "duration": 0.6,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": false,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 52964,
+      "sha256": "f656ac4e4732bf290fd21ae11ec8b16cc09970718fa240b6d5d2664868bac367"
+    },
+    {
+      "key": "ui_paper",
+      "path": "assets/audio/ui_paper.wav",
+      "kind": "audio",
+      "duration": 0.35,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": false,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 30914,
+      "sha256": "0da46e29d33dc3f013864914d9c9099a625a145f87244a729a31a0b6d413f725"
+    },
+    {
+      "key": "revival_pulse",
+      "path": "assets/audio/revival_pulse.wav",
+      "kind": "audio",
+      "duration": 2,
+      "sampleRate": 44100,
+      "channels": 1,
+      "loop": false,
+      "provenance": "original procedural synthesis; not field recording",
+      "bytes": 176444,
+      "sha256": "1339ed648057e2b471de4ee6c66786052b4a0e71bd976615add7461ab3377b6c"
+    },
+    {
+      "key": "preview_apartment_3f",
+      "path": "preview/map_apartment_3f.png",
+      "kind": "map-preview",
+      "notRuntimeBackground": true,
+      "width": 1344,
+      "height": 864,
+      "alpha": true,
+      "bytes": 793837,
+      "sha256": "926da6958ec5095981ac4979e7c53bda68df41d4ac747bbb815eeae7a3538212"
+    },
+    {
+      "key": "preview_ground_apartment_3f",
+      "path": "preview/ground_apartment_3f.png",
+      "kind": "map-preview",
+      "notRuntimeBackground": true,
+      "width": 1344,
+      "height": 864,
+      "alpha": true,
+      "bytes": 543446,
+      "sha256": "638f7b4b1ebef66231dea85f88b70346a94f250a41cb592d557722e3385dd306"
+    },
+    {
+      "key": "preview_safe_base",
+      "path": "preview/map_safe_base.png",
+      "kind": "map-preview",
+      "notRuntimeBackground": true,
+      "width": 896,
+      "height": 576,
+      "alpha": true,
+      "bytes": 455641,
+      "sha256": "cab103705a29ed616c58059485b0e113cc89d5c33f59f10f6759819090db658c"
+    },
+    {
+      "key": "preview_ground_safe_base",
+      "path": "preview/ground_safe_base.png",
+      "kind": "map-preview",
+      "notRuntimeBackground": true,
+      "width": 896,
+      "height": 576,
+      "alpha": true,
+      "bytes": 344401,
+      "sha256": "57767a779f9a590a3ced3ee0bcad702cf885576ba5e319ae4e70df3605cbc158"
+    },
+    {
+      "key": "preview_courtyard",
+      "path": "preview/map_courtyard.png",
+      "kind": "map-preview",
+      "notRuntimeBackground": true,
+      "width": 1152,
+      "height": 768,
+      "alpha": true,
+      "bytes": 556093,
+      "sha256": "5999d5c6c90857894337c90b3ed07accb3c0dcd90a86d25e636f9503fce4bb97"
+    },
+    {
+      "key": "preview_ground_courtyard",
+      "path": "preview/ground_courtyard.png",
+      "kind": "map-preview",
+      "notRuntimeBackground": true,
+      "width": 1152,
+      "height": 768,
+      "alpha": true,
+      "bytes": 485602,
+      "sha256": "1ba9dbe8180a2a181f77537ae9aa62e02e43539b8993585712bbc7de405b3bc0"
+    }
+  ],
+  "files": 163,
+  "generatedArtSources": {
+    "floor_tiles": "exec-522d7ca1-1114-4fa7-9d2c-13ff93f74cca.png",
+    "structure_atlas": "exec-f997343f-b71c-497a-bc47-cd8f0dddd79d.png",
+    "props_atlas": "exec-e4548010-7304-49d8-a958-55fde01bb8e9.png",
+    "player_male_walk": "exec-a2bb02c7-6350-43ea-ac0a-aa5d6dfa0a8a.png",
+    "player_female_walk": "exec-dedc52bf-9671-4748-83d3-abd1fd3fc54e.png",
+    "ghost_elder": "exec-667e2e38-eb1b-4afc-905d-7773645d2de9.png",
+    "ghost_door": "exec-6276d29d-5fe3-4301-87cc-a9e42d6f4902.png",
+    "ghost_rain": "exec-6bf28989-0beb-4007-aee7-8059f304234b.png",
+    "ghost_bride": "exec-1baa009e-36db-4ad4-83d8-6d251c636af8.png",
+    "ui_materials": "exec-ecc23e4b-adf5-4b8f-a3e0-7458879b398c.png",
+    "evidence_photos": "exec-9704419d-63b2-4ae9-8b23-70929b28bbc7.png",
+    "player_actions": "exec-1ba2245a-28d0-4108-bcd4-a4f07617b711.png",
+    "wall_ns": "exec-b0691fab-1041-4d84-bd5d-78914a98b509.png"
+  },
+  "animations": "data/animations.json",
+  "mapSchema": "di-thuong-map/1"
+}

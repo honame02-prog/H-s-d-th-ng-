@@ -1,0 +1,9 @@
+# Cloudflare Pages headers.
+# Vite đặt hash vào tên file trong /assets/ nên cache vĩnh viễn được.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Ảnh/âm thanh trong bộ assets không có hash: cache 1 ngày.
+# manifest.json và data/*.json giữ mặc định của Pages để cập nhật nhanh.
+/di-thuong/assets/*
+  Cache-Control: public, max-age=86400

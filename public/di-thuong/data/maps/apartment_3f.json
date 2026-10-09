@@ -1,0 +1,1937 @@
+{
+  "id": "apartment_3f",
+  "title": "Chung cư — tầng 3",
+  "schema": "di-thuong-map/1",
+  "tileWidth": 64,
+  "tileHeight": 48,
+  "width": 1344,
+  "height": 864,
+  "cols": 21,
+  "rows": 18,
+  "floor": [
+    [
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1
+    ],
+    [
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3
+    ],
+    [
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1
+    ],
+    [
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3
+    ],
+    [
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1
+    ],
+    [
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6
+    ],
+    [
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7
+    ],
+    [
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4
+    ],
+    [
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5
+    ],
+    [
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6
+    ],
+    [
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7
+    ],
+    [
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4
+    ],
+    [
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5,
+      6,
+      7,
+      4,
+      5
+    ]
+  ],
+  "objects": [
+    {
+      "key": "wall_horizontal",
+      "x": 96,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 160,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 224,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 288,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 352,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 416,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 480,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 544,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 608,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 672,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 736,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 800,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 864,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 928,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 992,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 1056,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 1120,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 1184,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 1248,
+      "y": 96,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 96,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_ns",
+      "x": 96,
+      "y": 816,
+      "width": 48,
+      "height": 784,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 816,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_ns",
+      "x": 1248,
+      "y": 816,
+      "width": 48,
+      "height": 784,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 816,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_ns",
+      "x": 480,
+      "y": 432,
+      "width": 48,
+      "height": 400,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 432,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_ns",
+      "x": 480,
+      "y": 816,
+      "width": 48,
+      "height": 208,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 816,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_ns",
+      "x": 864,
+      "y": 432,
+      "width": 48,
+      "height": 400,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 432,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_ns",
+      "x": 864,
+      "y": 816,
+      "width": 48,
+      "height": 208,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 816,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 160,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 224,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "door_closed",
+      "x": 288,
+      "y": 480,
+      "width": 76,
+      "height": 94,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "door"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 352,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 416,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 480,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 544,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 608,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "door_closed",
+      "x": 672,
+      "y": 480,
+      "width": 76,
+      "height": 94,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "door"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 736,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 800,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 864,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 928,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 992,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "door_closed",
+      "x": 1056,
+      "y": 480,
+      "width": 76,
+      "height": 94,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "door"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 1120,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 1184,
+      "y": 480,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 160,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 224,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "door_closed",
+      "x": 288,
+      "y": 672,
+      "width": 76,
+      "height": 94,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "door"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 352,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 416,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 480,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 544,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 608,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "door_closed",
+      "x": 672,
+      "y": 672,
+      "width": 76,
+      "height": 94,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "door"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 736,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 800,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 864,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 928,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 992,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "door_closed",
+      "x": 1056,
+      "y": 672,
+      "width": 76,
+      "height": 94,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "door"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 1120,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "wall_horizontal",
+      "x": 1184,
+      "y": 672,
+      "width": 76,
+      "height": 82,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 672,
+      "kind": "wall"
+    },
+    {
+      "key": "bed",
+      "x": 288,
+      "y": 336,
+      "width": 88,
+      "height": 128,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 336,
+      "kind": "prop"
+    },
+    {
+      "key": "wardrobe",
+      "x": 224,
+      "y": 192,
+      "width": 70,
+      "height": 104,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 192,
+      "kind": "prop"
+    },
+    {
+      "key": "table",
+      "x": 672,
+      "y": 336,
+      "width": 96,
+      "height": 88,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 336,
+      "kind": "prop"
+    },
+    {
+      "key": "fridge",
+      "x": 800,
+      "y": 192,
+      "width": 60,
+      "height": 106,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 192,
+      "kind": "prop"
+    },
+    {
+      "key": "sink",
+      "x": 1056,
+      "y": 240,
+      "width": 64,
+      "height": 90,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 240,
+      "kind": "prop"
+    },
+    {
+      "key": "shoe_rack",
+      "x": 224,
+      "y": 576,
+      "width": 64,
+      "height": 70,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 576,
+      "kind": "prop"
+    },
+    {
+      "key": "raincoat_stand",
+      "x": 1184,
+      "y": 576,
+      "width": 58,
+      "height": 118,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 576,
+      "kind": "prop"
+    },
+    {
+      "key": "television",
+      "x": 608,
+      "y": 768,
+      "width": 84,
+      "height": 90,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 768,
+      "kind": "prop"
+    },
+    {
+      "key": "sofa",
+      "x": 736,
+      "y": 816,
+      "width": 112,
+      "height": 80,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 816,
+      "kind": "prop"
+    },
+    {
+      "key": "gold_box_closed",
+      "x": 352,
+      "y": 768,
+      "width": 62,
+      "height": 62,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 768,
+      "kind": "prop"
+    },
+    {
+      "key": "fluorescent",
+      "x": 320,
+      "y": 480,
+      "width": 110,
+      "height": 40,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "light"
+    },
+    {
+      "key": "fluorescent",
+      "x": 704,
+      "y": 480,
+      "width": 110,
+      "height": 40,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "light"
+    },
+    {
+      "key": "fluorescent",
+      "x": 1088,
+      "y": 480,
+      "width": 110,
+      "height": 40,
+      "origin": [
+        0.5,
+        0.94
+      ],
+      "depth": 480,
+      "kind": "light"
+    }
+  ],
+  "colliders": [
+    {
+      "x": 64,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 128,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 192,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 256,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 320,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 384,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 448,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 512,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 576,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 640,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 704,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 768,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 832,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 896,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 960,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 1024,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 1088,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 1152,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 1216,
+      "y": 78,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 81,
+      "y": 96,
+      "width": 30,
+      "height": 720,
+      "source": "wall_ns"
+    },
+    {
+      "x": 1233,
+      "y": 96,
+      "width": 30,
+      "height": 720,
+      "source": "wall_ns"
+    },
+    {
+      "x": 465,
+      "y": 96,
+      "width": 30,
+      "height": 336,
+      "source": "wall_ns"
+    },
+    {
+      "x": 465,
+      "y": 672,
+      "width": 30,
+      "height": 144,
+      "source": "wall_ns"
+    },
+    {
+      "x": 849,
+      "y": 96,
+      "width": 30,
+      "height": 336,
+      "source": "wall_ns"
+    },
+    {
+      "x": 849,
+      "y": 672,
+      "width": 30,
+      "height": 144,
+      "source": "wall_ns"
+    },
+    {
+      "x": 128,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 192,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 320,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 384,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 448,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 512,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 576,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 704,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 768,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 832,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 896,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 960,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 1088,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 1152,
+      "y": 462,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 128,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 192,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 320,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 384,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 448,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 512,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 576,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 704,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 768,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 832,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 896,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 960,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 1088,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 1152,
+      "y": 654,
+      "width": 64,
+      "height": 18,
+      "source": "wall_horizontal"
+    },
+    {
+      "x": 259.84,
+      "y": 324,
+      "width": 56.32,
+      "height": 16,
+      "source": "bed"
+    },
+    {
+      "x": 201.6,
+      "y": 180,
+      "width": 44.800000000000004,
+      "height": 16,
+      "source": "wardrobe"
+    },
+    {
+      "x": 641.28,
+      "y": 324,
+      "width": 61.44,
+      "height": 16,
+      "source": "table"
+    },
+    {
+      "x": 780.8,
+      "y": 180,
+      "width": 38.4,
+      "height": 16,
+      "source": "fridge"
+    },
+    {
+      "x": 1035.52,
+      "y": 228,
+      "width": 40.96,
+      "height": 16,
+      "source": "sink"
+    },
+    {
+      "x": 203.52,
+      "y": 564,
+      "width": 40.96,
+      "height": 16,
+      "source": "shoe_rack"
+    },
+    {
+      "x": 1165.44,
+      "y": 564,
+      "width": 37.12,
+      "height": 16,
+      "source": "raincoat_stand"
+    },
+    {
+      "x": 581.12,
+      "y": 756,
+      "width": 53.76,
+      "height": 16,
+      "source": "television"
+    },
+    {
+      "x": 700.16,
+      "y": 804,
+      "width": 71.68,
+      "height": 16,
+      "source": "sofa"
+    },
+    {
+      "x": 332.16,
+      "y": 756,
+      "width": 39.68,
+      "height": 16,
+      "source": "gold_box_closed"
+    }
+  ],
+  "doors": [
+    {
+      "id": "door_4_9",
+      "objectIndex": 27,
+      "rect": {
+        "x": 256,
+        "y": 462,
+        "width": 64,
+        "height": 18
+      },
+      "closedKey": "door_closed",
+      "openKey": "door_open",
+      "initialState": "closed"
+    },
+    {
+      "id": "door_10_9",
+      "objectIndex": 33,
+      "rect": {
+        "x": 640,
+        "y": 462,
+        "width": 64,
+        "height": 18
+      },
+      "closedKey": "door_closed",
+      "openKey": "door_open",
+      "initialState": "closed"
+    },
+    {
+      "id": "door_16_9",
+      "objectIndex": 39,
+      "rect": {
+        "x": 1024,
+        "y": 462,
+        "width": 64,
+        "height": 18
+      },
+      "closedKey": "door_closed",
+      "openKey": "door_open",
+      "initialState": "closed"
+    },
+    {
+      "id": "door_4_13",
+      "objectIndex": 44,
+      "rect": {
+        "x": 256,
+        "y": 654,
+        "width": 64,
+        "height": 18
+      },
+      "closedKey": "door_closed",
+      "openKey": "door_open",
+      "initialState": "closed"
+    },
+    {
+      "id": "door_10_13",
+      "objectIndex": 50,
+      "rect": {
+        "x": 640,
+        "y": 654,
+        "width": 64,
+        "height": 18
+      },
+      "closedKey": "door_closed",
+      "openKey": "door_open",
+      "initialState": "closed"
+    },
+    {
+      "id": "door_16_13",
+      "objectIndex": 56,
+      "rect": {
+        "x": 1024,
+        "y": 654,
+        "width": 64,
+        "height": 18
+      },
+      "closedKey": "door_closed",
+      "openKey": "door_open",
+      "initialState": "closed"
+    }
+  ],
+  "spawns": [
+    {
+      "id": "player",
+      "x": 448,
+      "y": 576
+    },
+    {
+      "id": "ghost_elder",
+      "x": 1088,
+      "y": 576
+    }
+  ],
+  "clues": [
+    {
+      "id": "footprints",
+      "x": 960,
+      "y": 576,
+      "evidenceKey": "door_footprints"
+    },
+    {
+      "id": "mirror",
+      "x": 1024,
+      "y": 192,
+      "evidenceKey": "mirror_bathroom"
+    }
+  ],
+  "lights": [
+    {
+      "x": 320,
+      "y": 528,
+      "radius": 150,
+      "color": "#c3c9b6",
+      "flickerAllowed": false
+    },
+    {
+      "x": 704,
+      "y": 528,
+      "radius": 150,
+      "color": "#c3c9b6",
+      "flickerAllowed": false
+    },
+    {
+      "x": 1088,
+      "y": 528,
+      "radius": 150,
+      "color": "#c3c9b6",
+      "flickerAllowed": false
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# Cấu hình Cloudflare Pages (dùng cho `npx wrangler pages deploy`).
+name = "ho-so-di-thuong"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-09-01"

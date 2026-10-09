@@ -1,0 +1,314 @@
+[
+  {
+    "key": "player_male_walk_south",
+    "texture": "player_male_walk",
+    "frames": [
+      "south_walk_0",
+      "south_walk_1",
+      "south_walk_2",
+      "south_walk_3",
+      "south_walk_4",
+      "south_walk_5"
+    ],
+    "frameRate": 7,
+    "repeat": -1
+  },
+  {
+    "key": "player_male_walk_west",
+    "texture": "player_male_walk",
+    "frames": [
+      "west_walk_0",
+      "west_walk_1",
+      "west_walk_2",
+      "west_walk_3",
+      "west_walk_4",
+      "west_walk_5"
+    ],
+    "frameRate": 7,
+    "repeat": -1
+  },
+  {
+    "key": "player_male_walk_east",
+    "texture": "player_male_walk",
+    "frames": [
+      "east_walk_0",
+      "east_walk_1",
+      "east_walk_2",
+      "east_walk_3",
+      "east_walk_4",
+      "east_walk_5"
+    ],
+    "frameRate": 7,
+    "repeat": -1
+  },
+  {
+    "key": "player_male_walk_north",
+    "texture": "player_male_walk",
+    "frames": [
+      "north_walk_0",
+      "north_walk_1",
+      "north_walk_2",
+      "north_walk_3",
+      "north_walk_4",
+      "north_walk_5"
+    ],
+    "frameRate": 7,
+    "repeat": -1
+  },
+  {
+    "key": "player_female_walk_south",
+    "texture": "player_female_walk",
+    "frames": [
+      "south_walk_0",
+      "south_walk_1",
+      "south_walk_2",
+      "south_walk_3",
+      "south_walk_4",
+      "south_walk_5"
+    ],
+    "frameRate": 7,
+    "repeat": -1
+  },
+  {
+    "key": "player_female_walk_west",
+    "texture": "player_female_walk",
+    "frames": [
+      "west_walk_0",
+      "west_walk_1",
+      "west_walk_2",
+      "west_walk_3",
+      "west_walk_4",
+      "west_walk_5"
+    ],
+    "frameRate": 7,
+    "repeat": -1
+  },
+  {
+    "key": "player_female_walk_east",
+    "texture": "player_female_walk",
+    "frames": [
+      "east_walk_0",
+      "east_walk_1",
+      "east_walk_2",
+      "east_walk_3",
+      "east_walk_4",
+      "east_walk_5"
+    ],
+    "frameRate": 7,
+    "repeat": -1
+  },
+  {
+    "key": "player_female_walk_north",
+    "texture": "player_female_walk",
+    "frames": [
+      "north_walk_0",
+      "north_walk_1",
+      "north_walk_2",
+      "north_walk_3",
+      "north_walk_4",
+      "north_walk_5"
+    ],
+    "frameRate": 7,
+    "repeat": -1
+  },
+  {
+    "key": "vfx_domain_edge",
+    "texture": "vfx_domain_edge",
+    "frames": [
+      "frame_00",
+      "frame_01",
+      "frame_02",
+      "frame_03",
+      "frame_04",
+      "frame_05",
+      "frame_06",
+      "frame_07",
+      "frame_08",
+      "frame_09",
+      "frame_10",
+      "frame_11",
+      "frame_12",
+      "frame_13",
+      "frame_14",
+      "frame_15"
+    ],
+    "frameRate": 16,
+    "repeat": 0,
+    "blendMode": "NORMAL"
+  },
+  {
+    "key": "vfx_suppression",
+    "texture": "vfx_suppression",
+    "frames": [
+      "frame_00",
+      "frame_01",
+      "frame_02",
+      "frame_03",
+      "frame_04",
+      "frame_05",
+      "frame_06",
+      "frame_07",
+      "frame_08",
+      "frame_09",
+      "frame_10",
+      "frame_11",
+      "frame_12",
+      "frame_13",
+      "frame_14",
+      "frame_15"
+    ],
+    "frameRate": 16,
+    "repeat": 0,
+    "blendMode": "NORMAL"
+  },
+  {
+    "key": "vfx_manifestation",
+    "texture": "vfx_manifestation",
+    "frames": [
+      "frame_00",
+      "frame_01",
+      "frame_02",
+      "frame_03",
+      "frame_04",
+      "frame_05",
+      "frame_06",
+      "frame_07",
+      "frame_08",
+      "frame_09",
+      "frame_10",
+      "frame_11",
+      "frame_12",
+      "frame_13",
+      "frame_14",
+      "frame_15"
+    ],
+    "frameRate": 16,
+    "repeat": 0,
+    "blendMode": "NORMAL"
+  },
+  {
+    "key": "vfx_rain_trace",
+    "texture": "vfx_rain_trace",
+    "frames": [
+      "frame_00",
+      "frame_01",
+      "frame_02",
+      "frame_03",
+      "frame_04",
+      "frame_05",
+      "frame_06",
+      "frame_07",
+      "frame_08",
+      "frame_09",
+      "frame_10",
+      "frame_11",
+      "frame_12",
+      "frame_13",
+      "frame_14",
+      "frame_15"
+    ],
+    "frameRate": 16,
+    "repeat": -1,
+    "blendMode": "NORMAL"
+  },
+  {
+    "key": "vfx_footprint",
+    "texture": "vfx_footprint",
+    "frames": [
+      "frame_00",
+      "frame_01",
+      "frame_02",
+      "frame_03",
+      "frame_04",
+      "frame_05",
+      "frame_06",
+      "frame_07",
+      "frame_08",
+      "frame_09",
+      "frame_10",
+      "frame_11",
+      "frame_12",
+      "frame_13",
+      "frame_14",
+      "frame_15"
+    ],
+    "frameRate": 16,
+    "repeat": 0,
+    "blendMode": "NORMAL"
+  },
+  {
+    "key": "vfx_mirror_fracture",
+    "texture": "vfx_mirror_fracture",
+    "frames": [
+      "frame_00",
+      "frame_01",
+      "frame_02",
+      "frame_03",
+      "frame_04",
+      "frame_05",
+      "frame_06",
+      "frame_07",
+      "frame_08",
+      "frame_09",
+      "frame_10",
+      "frame_11",
+      "frame_12",
+      "frame_13",
+      "frame_14",
+      "frame_15"
+    ],
+    "frameRate": 16,
+    "repeat": 0,
+    "blendMode": "NORMAL"
+  },
+  {
+    "key": "vfx_evidence_ping",
+    "texture": "vfx_evidence_ping",
+    "frames": [
+      "frame_00",
+      "frame_01",
+      "frame_02",
+      "frame_03",
+      "frame_04",
+      "frame_05",
+      "frame_06",
+      "frame_07",
+      "frame_08",
+      "frame_09",
+      "frame_10",
+      "frame_11",
+      "frame_12",
+      "frame_13",
+      "frame_14",
+      "frame_15"
+    ],
+    "frameRate": 16,
+    "repeat": 0,
+    "blendMode": "NORMAL"
+  },
+  {
+    "key": "vfx_containment_lock",
+    "texture": "vfx_containment_lock",
+    "frames": [
+      "frame_00",
+      "frame_01",
+      "frame_02",
+      "frame_03",
+      "frame_04",
+      "frame_05",
+      "frame_06",
+      "frame_07",
+      "frame_08",
+      "frame_09",
+      "frame_10",
+      "frame_11",
+      "frame_12",
+      "frame_13",
+      "frame_14",
+      "frame_15"
+    ],
+    "frameRate": 16,
+    "repeat": 0,
+    "blendMode": "NORMAL"
+  }
+]
