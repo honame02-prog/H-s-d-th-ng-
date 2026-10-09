@@ -1,6 +1,6 @@
 # Hồ Sơ Dị Thường — hướng dẫn cho Claude Code
 
-Game kinh dị đô thị 2D (điều tra → kiểm chứng quy luật → ngự quỷ). Gameplay bằng **Phaser 3**, UI quản lý/hồ sơ bằng **React**, viết bằng **TypeScript**, build bằng **Vite**, deploy lên **Cloudflare Pages**.
+Game kinh dị đô thị 2D (điều tra → kiểm chứng quy luật → ngự quỷ). Gameplay bằng **Phaser 3**, UI quản lý/hồ sơ bằng **React**, viết bằng **TypeScript**, build bằng **Vite**, deploy lên **Cloudflare Workers** (static assets).
 
 ## Lệnh
 
@@ -54,7 +54,7 @@ src/ui/                    React: App (HUD, màn hình bắt đầu), Joystick, 
 - Hằng số quy cách (scale, collider, bán kính) đặt trong `src/game/constants.ts`.
 - Chữ hiển thị cho người chơi bằng tiếng Việt; comment có thể tiếng Việt.
 - Khi thêm asset vào lát cắt, thêm key vào `FIRST_SLICE_KEYS` (hoặc tách danh sách theo scene) thay vì tải toàn bộ manifest — quan trọng cho điện thoại.
-- `public/_headers` đặt cache cho Cloudflare Pages; asset không có hash nên chỉ cache 1 ngày.
+- `public/_headers` đặt cache cho Cloudflare; asset không có hash nên chỉ cache 1 ngày.
 
 ## Trạng thái hiện tại (lát cắt nền)
 
@@ -62,7 +62,8 @@ src/ui/                    React: App (HUD, màn hình bắt đầu), Joystick, 
 
 Chưa có: AI/di chuyển của quỷ, điều kiện sát nhân, năng lực & giá phục tô, giam giữ (`restrained` chỉ qua phím debug G), save, nhân vật nữ, 3 quỷ còn lại, map trạm hồ sơ và sân, clue `mirror`, ánh sáng động thật sự (hiện chỉ là quầng sáng tĩnh + vignette), tuỳ chọn giảm hiệu ứng, kiểm tra trên điện thoại thật.
 
-## Deploy Cloudflare Pages
+## Deploy Cloudflare
 
-- Build command: `npm run build` · Output directory: `dist` · Biến môi trường: `NODE_VERSION=22` (hoặc dùng `.nvmrc`).
-- Hoặc thủ công: `npm run build && npx wrangler pages deploy` (đọc `wrangler.toml`).
+- Worker `h-s-d-th-ng` (Workers Builds nối Git): build `npm run build`, deploy `npx wrangler deploy`.
+- `wrangler.toml` dùng `[assets] directory = "./dist"`, không phải cấu hình Pages (`pages_build_output_dir` sẽ làm `wrangler deploy` lỗi). `name` phải trùng tên Worker.
+- Kiểm tra cấu hình trước khi push: `npm run build && npx wrangler deploy --dry-run`.

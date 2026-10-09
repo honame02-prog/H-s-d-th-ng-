@@ -1,4 +1,9 @@
-# Cấu hình Cloudflare Pages (dùng cho `npx wrangler pages deploy`).
-name = "ho-so-di-thuong"
-pages_build_output_dir = "dist"
+# Cloudflare Workers (static assets). Workers Builds chạy `npm run build` rồi `npx wrangler deploy`.
+# `name` phải trùng tên Worker trên dashboard.
+name = "h-s-d-th-ng"
 compatibility_date = "2026-09-01"
+
+[assets]
+directory = "./dist"
+# Đường dẫn không tồn tại trả về index.html (ứng dụng một trang).
+not_found_handling = "single-page-application"

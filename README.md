@@ -32,23 +32,23 @@ npm run preview
 
 Thêm `?debug` vào URL để vẽ collider và bật phím **G** đổi vòng trạng thái quỷ.
 
-## Deploy lên Cloudflare Pages
+## Deploy lên Cloudflare (Workers + static assets)
 
-**Qua Git (dashboard):** Workers & Pages → Create → Pages → Connect to Git → chọn repo.
+Project trên Cloudflare là Worker `h-s-d-th-ng`, kết nối Git (Workers Builds). Mỗi lần push lên `main`, Cloudflare chạy:
 
-- Framework preset: `None` (hoặc `Vite`)
 - Build command: `npm run build`
-- Build output directory: `dist`
-- Environment variable: `NODE_VERSION` = `22`
+- Deploy command: `npx wrangler deploy`
 
-**Thủ công bằng Wrangler:**
+`wrangler.toml` khai báo thư mục `dist` là static assets (`[assets] directory = "./dist"`). `name` trong file phải trùng tên Worker trên dashboard. Nếu đổi tên Worker thì sửa cả `name`.
+
+Deploy thủ công từ máy:
 
 ```sh
 npm run build
-npx wrangler pages deploy   # dùng wrangler.toml (pages_build_output_dir = "dist")
+npx wrangler deploy
 ```
 
-`public/_headers` cấu hình cache: bundle JS/CSS có hash cache vĩnh viễn; assets trong `/di-thuong/assets/` cache 1 ngày.
+`public/_headers` cấu hình cache: bundle JS/CSS có hash được cache vĩnh viễn; assets trong `/di-thuong/assets/` cache 1 ngày.
 
 ## Assets
 
